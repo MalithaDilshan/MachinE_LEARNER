@@ -14,7 +14,7 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
 
 *Superviced Learning*
 1. Linear Regression Model:
-   
+   use the 'gradient_decent_quandl_application' folder and 
 
 
                           
