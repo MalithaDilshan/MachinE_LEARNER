@@ -21,7 +21,7 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
       http://malithakumarasiri.blogspot.com/2018/08/applicability-of-linear-regression-model.html
                           
 2. Logistic Regression Model:
-   ***to be continue :) ***
+   ***to be continued :) ***
 
 
 
