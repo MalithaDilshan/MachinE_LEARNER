@@ -14,14 +14,21 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
 
 *Superviced Learning*
 1. Linear Regression Model:
-   use the 'gradient_decent_quandl_application' and 'implement_linear_regression_model' folders for accessing codes. There are .pdf 
+   Use the 'gradient_decent_quandl_application' and 'implement_linear_regression_model' folders for accessing codes. There are .pdf 
    files for more infomations with the analysis of measurements (or see following links)
 
       http://malithakumarasiri.blogspot.com/2018/08/implement-simple-linear-regression-model.html
       http://malithakumarasiri.blogspot.com/2018/08/applicability-of-linear-regression-model.html
                           
 2. Logistic Regression Model:
-   ***to be continued :) ***
+   Here, the 'simple_logistic_regression_for_iris_dataset' has included all the code for the logistic regression for 'iris' 
+   flower dataset. The Python 'sklearn' package has used to apply the logistic regression model. In 'simple_logistic_regression'
+   sub-folder has included the code for simple logistic regression method for iris data set. In multiple_logistic_regression sub
+   -folder has included the code for multiple logistic regression method and some documentation files for the data set. For more  
+   information, please check following links.
+   
+      http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-and-its.html
+      http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-for-iris-flower.html
 
 
 
@@ -36,3 +43,7 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
 2. https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
 3. https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0
 4. https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/
+5. https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+6. https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+
+
