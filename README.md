@@ -28,7 +28,6 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
    information, please check following links.
    
       http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-and-its.html
-      
       http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-for-iris-flower.html
 
 
