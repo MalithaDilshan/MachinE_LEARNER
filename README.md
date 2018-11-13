@@ -25,7 +25,7 @@ Machine learning is the basic basic part of the AI technology. A deep undestandi
    flower dataset. The Python 'sklearn' package has used to apply the logistic regression model. In 'simple_logistic_regression'
    sub-folder has included the code for simple logistic regression method for iris data set. In multiple_logistic_regression sub
    -folder has included the code for multiple logistic regression method and some documentation files for the data set. For more  
-   information, please check following links.
+   information, please check following links.   
    
       http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-and-its.html
       http://malithakumarasiri.blogspot.com/2018/08/logistic-regression-for-iris-flower.html
